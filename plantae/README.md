@@ -8,4 +8,4 @@
 - Desenvolvido com a metodologia Mobile First.
 - Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
-![plants website](/preview.png)
+
